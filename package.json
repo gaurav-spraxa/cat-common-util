@@ -1,0 +1,19 @@
+{
+  "name": "cat-common-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "fs-extra": "^11.2.0",
+    "node-machine-id": "^1.1.12",
+    "node-rsa": "^1.1.1"
+  }
+}
